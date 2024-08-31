@@ -1,4 +1,4 @@
-# Título do Projeto
+# Consultoria Universo AGV
 
 `CURSO: Sistemas de Informação`
 
@@ -6,21 +6,19 @@
 
 `SEMESTRE: 8º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Relatório apresentado à disciplina Projeto de Conclusão de Curso, do curso de Sistemas de Informação Puc Minas como requisito parcial para aprovação na disciplina, sob a orientação da prof.ª Simone Fernandes Queiroz.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Cleverson Christian da Rocha
+* Luiz Carlos Muschioni
+* Maitê Luise Freitas de Almeida Santos
+* Thainara Pereira Dias
 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Prof.ª Simone Fernandes Queiroz
 
 # Planejamento
 
