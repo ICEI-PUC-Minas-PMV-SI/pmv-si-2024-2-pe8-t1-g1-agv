@@ -18,9 +18,10 @@ KIT e KIQs:
 Expansão para novos segmentos de mercado
 
 - KIQs:
-  1. Quais são as tendências de mercado para veículos elétricos e suas implicações para a proteção veicular?
-  2. Quais são as necessidades específicas dos consumidores que buscam proteção para veículos elétricos?
-  3. Como a concorrência está se posicionando em relação à proteção de veículos elétricos?
+
+>1. Quais são as tendências de mercado para veículos elétricos e suas implicações para a proteção veicular?
+>2. Quais são as necessidades específicas dos consumidores que buscam proteção para veículos elétricos?
+>3. Como a concorrência está se posicionando em relação à proteção de veículos elétricos?
 
 ### 2. Identificação das Necessidades de Informação
 
