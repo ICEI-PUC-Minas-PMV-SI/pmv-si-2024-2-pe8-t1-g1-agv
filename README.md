@@ -22,7 +22,11 @@ Relatório apresentado à disciplina Projeto de Conclusão de Curso, do curso de
 
 # Planejamento
 
-Descrever o planejamento de cada etapa       
+* Etapa 1 - Definição da organização e estudo do negócio e seu mercado
+* Etapa 2 - Plano de Inteligência Competitiva (IC)
+* Etapa 3 - Desenvolvimento de alternativas de soluções de SI
+* Etapa 4 - Planejamento Estratégico de TI (PETI)
+* Etapa 5 - Avaliação e Gestão Contínua de TI
 
 # Código
 
