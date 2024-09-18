@@ -5,84 +5,83 @@
 
 PLANO DE INTELIGÊNCIA COMPETITIVA (IC)
 
-
 ### 1. Identificação das Necessidades de IC
 
 Decisões Críticas:
 
-A Universo AGV, atuando no setor de proteção veicular, enfrenta decisões críticas relacionadas à expansão de mercado e à adaptação dos serviços às novas demandas dos consumidores. Uma decisão relevante é a expansão para novos segmentos de mercado, como veículos elétricos, que está alinhada com as tendências de sustentabilidade e inovação.
+A Universo AGV deve focar em decisões críticas que impactem a eficiência operacional interna e a satisfação dos associados. Uma decisão relevante é a otimização dos processos de atendimento ao cliente, visando melhorar a agilidade e a qualidade do serviço prestado.
 
 KIT e KIQs:
 
 - KIT:
-Expansão para novos segmentos de mercado
+>- Otimização dos Processos de Atendimento ao Cliente
 
 - KIQs:
 
->1. Quais são as tendências de mercado para veículos elétricos e suas implicações para a proteção veicular?
->2. Quais são as necessidades específicas dos consumidores que buscam proteção para veículos elétricos?
->3. Como a concorrência está se posicionando em relação à proteção de veículos elétricos?
+>1. Quais são os principais gargalos no atendimento ao cliente atualmente?
+>2. Como podemos medir a satisfação dos associados em relação ao atendimento?
+>3. Quais tecnologias podem ser implementadas para melhorar a eficiência do atendimento?
 
 ### 2. Identificação das Necessidades de Informação
 
 Para responder às KIQs, as seguintes informações devem ser coletadas:
 
->- Dados de mercado sobre a adoção de veículos elétricos no Brasil.
->- Pesquisas de satisfação e necessidades dos consumidores de veículos elétricos.
->- Análise das ofertas de concorrentes que atuam no segmento de veículos elétricos.
->- Informações sobre regulamentações e incentivos governamentais para veículos elétricos.
-
+>- Dados sobre o tempo médio de resposta e resolução de chamados no atendimento.
+>- Resultados de pesquisas de satisfação dos associados.
+>- Informações sobre ferramentas tecnológicas disponíveis que podem ser integradas ao sistema atual.
 
 ### 3. Coleta e Armazenamento de Dados
 
 Fontes de Dados:
->- Relatórios de mercado de instituições como ANFAVEA e IBGE.
->- Pesquisas de opinião e satisfação de consumidores, realizadas por empresas de pesquisa.
->- Dados de concorrentes obtidos através de análises de presença online e relatórios de mercado.
+>- Relatórios internos sobre o desempenho do atendimento ao cliente.
+>- Resultados de pesquisas de satisfação realizadas periodicamente.
+>- Análises de mercado sobre ferramentas de atendimento ao cliente.
 
 Plano de Coleta e Armazenamento:
->- Papéis dos Coletores: Equipe de marketing e pesquisa de mercado.
->- Pontos de Coleta: Redes sociais, plataformas de pesquisa e sites de concorrentes.
->- Periodicidade da Coleta: Mensal para dados de mercado e trimestral para pesquisas de satisfação.
->- Redes de Coleta: Utilização de ferramentas de monitoramento de redes sociais e plataformas de análise de dados.
+>- Papéis dos Coletores: Equipe de TI e departamento de atendimento ao cliente.
+>- Pontos de Coleta: Sistema interno da Universo AGV, formulários online e plataformas de feedback.
+>- Periodicidade da Coleta: Mensal para dados operacionais e trimestral para pesquisas de satisfação.
+>- Redes de Coleta: Utilização de ferramentas internas como CRM e plataformas de feedback.
 
 ### 4. Análise de Dados e Registro de Informações
 
 Proposição de Análise:
-Os dados coletados devem ser analisados utilizando técnicas de análise SWOT e benchmarking. A análise SWOT ajudará a identificar forças, fraquezas, oportunidades e ameaças relacionadas à entrada no mercado de veículos elétricos.
+
+Os dados coletados devem ser analisados utilizando métodos como análise estatística descritiva para entender o desempenho do atendimento. Além disso, uma análise SWOT interna pode ajudar a identificar forças e fraquezas nos processos atuais.
 
 Ferramentas Sugeridas:
 
->- Excel: Para análise de dados quantitativos e criação de gráficos.
->- Tableau: Para visualização de dados e relatórios interativos.
->- SPSS: Para análise estatística e interpretação de dados qualitativos.
+>- Excel: Para análise quantitativa e geração de relatórios simples.
+>- Power BI: Para visualização interativa dos dados coletados e identificação rápida de tendências.
+>- SurveyMonkey: Para conduzir pesquisas de satisfação com os associados.
 
-A escolha dessas ferramentas se justifica pela sua capacidade de facilitar a interpretação e a visualização dos dados, permitindo insights mais claros e acionáveis.
+A escolha dessas ferramentas se justifica pela facilidade de uso e pela capacidade de gerar insights claros que ajudem na tomada de decisões.
 
 ### 5. Disseminação e Utilização das Informações
 
 Ferramentas para Comunicação:
->- Power BI: Para criação de dashboards interativos que podem ser compartilhados com a equipe de gestão.
->- Google Slides: Para apresentações que sintetizam as descobertas e insights obtidos a partir da análise de dados.
+>- Google Data Studio: Para criar relatórios visuais que podem ser compartilhados com a equipe executiva.
+>- Microsoft Teams: Para apresentações rápidas e discussões em grupo sobre os dados coletados.
 
-Essas ferramentas garantem que as informações cheguem aos tomadores de decisão de forma clara e no momento certo, influenciando positivamente as decisões estratégicas da empresa.
+Essas ferramentas garantem que as informações sejam apresentadas claramente aos tomadores de decisão, facilitando a aplicação dos insights obtidos nas estratégias internas.
 
 ### 6. Avaliação do Processo de IC
 
 A avaliação do processo de IC deve considerar:
 
->- Qualidade das Informações: Análise da precisão e relevância das informações coletadas.
->- Eficiência do Processo: Avaliação do tempo e recursos utilizados na coleta e análise de dados.
->- Feedback dos Tomadores de Decisão: Coleta de opiniões sobre a utilidade das informações fornecidas.
->- Aprimoramento Contínuo: Implementação de melhorias com base no feedback e na análise de resultados.
+>- Qualidade das Informações: Verificação da precisão e relevância dos dados coletados.
+>- Eficiência do Processo: Análise do tempo gasto na coleta, análise e disseminação das informações.
+>- Feedback dos Tomadores de Decisão: Coleta contínua de opiniões sobre a utilidade das informações geradas.
+>- Aprimoramento Contínuo: Implementação das melhorias sugeridas com base no feedback recebido.
 
 ### 7. Compliance de TI
 
 Aspectos Legais e Normativos:
-É fundamental garantir a conformidade com a LGPD, que regula o tratamento de dados pessoais no Brasil. A Universo AGV deve:
 
->- Implementar políticas de privacidade e proteção de dados.
->- Realizar treinamentos sobre a LGPD para todos os colaboradores.
->- Estabelecer procedimentos para garantir a segurança da informação, incluindo a criptografia de dados sensíveis e o controle de acesso.
+É essencial garantir conformidade com a LGPD no tratamento dos dados pessoais dos associados. A Universo AGV deve:
 
-Essas ações são essenciais para assegurar a conformidade contínua e a proteção dos dados dos associados.
+>- Estabelecer políticas claras sobre o uso, armazenamento e compartilhamento dos dados pessoais.
+>- Realizar treinamentos regulares para os colaboradores sobre práticas seguras no manuseio das informações.
+>- Implementar medidas técnicas, como criptografia, para proteger os dados sensíveis armazenados.
+
+Essas ações são fundamentais para assegurar a conformidade legal contínua e proteger as informações dos associados.
