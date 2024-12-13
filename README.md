@@ -39,4 +39,4 @@ Relatório apresentado à disciplina Projeto de Conclusão de Curso, do curso de
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="presentation/Apresentação eixo 8.pptx.png">Apresentação da solução - Universo AVG</a></li>
