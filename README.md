@@ -22,15 +22,20 @@ Relatório apresentado à disciplina Projeto de Conclusão de Curso, do curso de
 
 # Planejamento
 
-* Etapa 1 - Definição da organização e estudo do negócio e seu mercado
-* Etapa 2 - Plano de Inteligência Competitiva (IC)
-* Etapa 3 - Desenvolvimento de alternativas de soluções de SI
-* Etapa 4 - Planejamento Estratégico de TI (PETI)
-* Etapa 5 - Avaliação e Gestão Contínua de TI
+<li><a href="src/relatorio-et1_Grupo01_Universo-AGV.pdf">Etapa 1 - Definição da organização e estudo do negócio e seu mercado</a></li>
+<li><a href="src/relatorio-et2_Grupo01_Universo-AGV.pdf">Etapa 2 - Plano de Inteligência Competitiva (IC)</a></li>
+<li><a href="src/relatorio-et3_Grupo01_Universo-AGV.pdf">Etapa 3 - Desenvolvimento de alternativas de soluções de SI</a></li>
+<li><a href="src/relatorio-et4_Grupo01_Universo-AGV.pdf">Etapa 4 - Planejamento Estratégico de TI (PETI)</a></li>
+<li><a href="src/relatorio-et5_Grupo01_Universo-AGV.pdf">Etapa 5 - Avaliação e Gestão Contínua de TI</a></li>
 
 # Código
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+![Power BI-Dasboard 0](src/pb0.png)
+![Power BI-Dasboard 1](src/pb1.png)
+![Power BI-Dasboard 2](src/pb2.png)
+![Power BI-Dasboard 3](src/pb3.png)
+![Power BI-Dasboard 4](src/pb4.png)
+![Power BI-Dasboard 5](src/pb5.png)
 
 # Apresentação
 
